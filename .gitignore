@@ -1,0 +1,21 @@
+# Eclipse
+
+.metadata/
+
+# Archives
+
+*.zip
+
+# Java / Spring Boot
+
+target/
+*.class
+*.log
+
+# IDE files
+
+.idea/
+.vscode/
+.settings/
+.project
+.classpath
