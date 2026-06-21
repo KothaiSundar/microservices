@@ -36,15 +36,71 @@ It covers API Gateway, Service Discovery, Configuration Management, Docker deplo
 - Routing
 - Load Balancing
 
+
+## ✅ Section 10: Making Microservices Resilient
+- Circuit Breaker
+- Retry Pattern
+- Rate Limiting
+- Fault Tolerance
+- Resilience4j
+
+## ✅ Section 12: Microservices Security
+- Spring Security
+- JWT Authentication
+- OAuth2
+- Secure API Communication
+- Role-Based Authorization
+
+## ✅ Section 13: Event-Driven Microservices using RabbitMQ, Spring Cloud Functions & Stream
+- RabbitMQ Messaging
+- Publisher & Consumer Services
+- Spring Cloud Stream
+- Spring Cloud Functions
+- Asynchronous Communication
+
+## ✅ Section 14: Event-Driven Microservices using Kafka, Spring Cloud Functions & Stream
+- Apache Kafka
+- Producers & Consumers
+- Spring Cloud Stream
+- Spring Cloud Functions
+- Event Streaming
+
+## ✅ Section 15: Container Orchestration using Kubernetes
+- Kubernetes Fundamentals
+- Deployments & Services
+- ConfigMaps & Secrets
+- Scaling Microservices
+- Rolling Updates
 ---
 
 # 🛠️ Technologies Used
 
-- Java
+### Backend
+- Java 17+
 - Spring Boot
+- Spring Data JPA
+- Spring Security
+
+### Microservices & Cloud
 - Spring Cloud
-- Eureka Server
-- API Gateway
-- Docker
+- Spring Cloud Config
+- Spring Cloud Gateway
+- Spring Cloud Stream
+- Spring Cloud Function
+- Eureka Server (Service Discovery)
+- Resilience4j
+
+### Messaging
+- RabbitMQ
+- Apache Kafka
+
+### Database
 - MySQL
+
+### DevOps & Deployment
+- Docker
+- Docker Compose
+- Kubernetes
+
+### Build Tool
 - Maven
